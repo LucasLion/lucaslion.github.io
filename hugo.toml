@@ -6,7 +6,7 @@
 
 
 
-baseURL = "http://www.lucaslion.fr"
+baseURL = "https://lucaslion.fr"
 title   = "Lucas Lion"
 languageCode = "en-us"
 theme = "hello-friend-ng"
