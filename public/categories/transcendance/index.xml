@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transcendance on Lucas Lion</title>
+    <link>http://localhost:1313/categories/transcendance/</link>
+    <description>Recent content in Transcendance on Lucas Lion</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/transcendance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transcendance-title</title>
+      <link>http://localhost:1313/portfolio/transcendance/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/transcendance/</guid>
+      <description>Fonctionnalités #- Jeu de pong multijoueur #- Interface utilisateur simple #- Système de chat #- Système de score #- Système de connexion </description>
+    </item>
+  </channel>
+</rss>

@@ -1,15 +1,15 @@
 ---
 author:
-  name: "Michael Henderson"
-date: 2014-09-28
+  name: "Lucas Lion"
+date: 2023-02-28
 linktitle: Transcendance
 type:
 - post
 - posts
-title: transcendance
+title: Transcendance
 weight: 10
 series:
-- Hugo 101
+- Projetcs
 ---
 
-![pong game](pong.png "pong game")
+![pong game](/pong.png "pong game")
