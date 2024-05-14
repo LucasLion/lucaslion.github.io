@@ -15,8 +15,8 @@ PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
 paginate  = 10
-rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+rssLimit  = 10
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -42,7 +42,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  posts = "/posts/:month/:year/:title/"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -54,16 +54,16 @@ disableHugoGeneratorInject = false
 
 [params]
   [params.author]
-    name = "Jane Doe"
+    name = "Lucas Lion"
 
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  dateformNum     = "2023-01-02"
+  dateformNumTime = "2023-01-02 15:04"
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "Nice theme"
   keywords = ""
   images = [""]
 
@@ -252,10 +252,6 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About me"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
+    identifier = "Portfolio"
     name       = "Portfolio"
 	url        = "posts/"
