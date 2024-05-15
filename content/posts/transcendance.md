@@ -11,6 +11,9 @@ weight: 10
 series:
 - Projetcs
 ---
+### Projet
+
+Transcendance est un jeu de pong multijoueur en ligne qui permet de jouer contre d'autres joueurs en temps réel.
 
 ### Fonctionnalités
 
@@ -34,5 +37,8 @@ series:
 - Google Authenticator
 - Swagger
 
+### Lien du projet
+
 #### Accessible&nbsp;[ici](https://42transcendance.fr)
+
 ![pong game](/pong.png "pong game")

@@ -15,8 +15,11 @@
             <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
             
             <guid>http://localhost:1313/posts/02/2023/transcendance/</guid>
-            <description>Fonctionnalités Plusieurs modes de jeu avec / sans bonus vitesse de la balle Chat et salons intégrés Système de ranking Double authentification Connexion via github Système de matchmaking Technologies React Node.js Socket.io Express / Nest.js Postgres / Prisma Docker Google Authenticator Swagger Accessible ici </description>
-            <content type="html"><![CDATA[<h3 id="fonctionnalités">Fonctionnalités</h3>
+            <description>Projet Transcendance est un jeu de pong multijoueur en ligne qui permet de jouer contre d&amp;rsquo;autres joueurs en temps réel.
+Fonctionnalités Plusieurs modes de jeu avec / sans bonus vitesse de la balle Chat et salons intégrés Système de ranking Double authentification Connexion via github Système de matchmaking Technologies React Node.js Socket.io Express / Nest.js Postgres / Prisma Docker Google Authenticator Swagger Lien du projet Accessible ici </description>
+            <content type="html"><![CDATA[<h3 id="projet">Projet</h3>
+<p>Transcendance est un jeu de pong multijoueur en ligne qui permet de jouer contre d&rsquo;autres joueurs en temps réel.</p>
+<h3 id="fonctionnalités">Fonctionnalités</h3>
 <ul>
 <li>Plusieurs modes de jeu
 <ul>
@@ -41,6 +44,7 @@
 <li>Google Authenticator</li>
 <li>Swagger</li>
 </ul>
+<h3 id="lien-du-projet">Lien du projet</h3>
 <h4 id="accessiblenbspicihttps42transcendancefr">Accessible <a href="https://42transcendance.fr">ici</a></h4>
 <p><img alt="pong game" src="/pong.png" title="pong game"></p>
 ]]></content>
@@ -52,8 +56,11 @@
             <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
             
             <guid>http://localhost:1313/posts/11/2022/minishell/</guid>
-            <description>Fonctionnalités Langage C Historique fonctionnel Simples et doubles guillements pris en compte Redirections ( &amp;lt;, &amp;gt;, &amp;raquo; ) Pipes ( | ) Heredoc ( &amp;laquo; ) Variables d&amp;rsquo;environnement Signaux (ctrl + C, ctrl + D, ctrl + \ ) Builtins (echo, cd, pwd, export, unset, env, exit) </description>
-            <content type="html"><![CDATA[<h3 id="fonctionnalités">Fonctionnalités</h3>
+            <description>Projet Minishell est un shell UNIX simplifié qui permet d&amp;rsquo;exécuter des commandes et de gérer des signaux.
+Fonctionnalités Langage C Historique fonctionnel Simples et doubles guillements pris en compte Redirections ( &amp;lt;, &amp;gt;, &amp;raquo; ) Pipes ( | ) Heredoc ( &amp;laquo; ) Variables d&amp;rsquo;environnement Signaux (ctrl + C, ctrl + D, ctrl + \ ) Builtins (echo, cd, pwd, export, unset, env, exit) Lien du projet Accessible ici </description>
+            <content type="html"><![CDATA[<h3 id="projet">Projet</h3>
+<p>Minishell est un shell UNIX simplifié qui permet d&rsquo;exécuter des commandes et de gérer des signaux.</p>
+<h3 id="fonctionnalités">Fonctionnalités</h3>
 <ul>
 <li>Langage C</li>
 <li>Historique fonctionnel</li>
@@ -65,6 +72,8 @@
 <li>Signaux (ctrl + C, ctrl + D, ctrl + \ )</li>
 <li>Builtins (echo, cd, pwd, export, unset, env, exit)</li>
 </ul>
+<h3 id="lien-du-projet">Lien du projet</h3>
+<h4 id="accessiblenbspicihttpsgithubcomlucaslionminishell">Accessible <a href="https://github.com/lucaslion/minishell">ici</a></h4>
 <p><img alt="minishell example" src="/minishell.png" title="minishell example"></p>
 ]]></content>
         </item>
@@ -75,15 +84,41 @@
             <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
             
             <guid>http://localhost:1313/posts/06/2022/cub3d/</guid>
-            <description>Projet Langage C Utilise la technique du Ray-Casting Utilisation de la librairie graphique Minilibx Utilisation de la norme 42 </description>
+            <description>Projet Cub3D est un jeu vidéo en vue subjective inspiré du jeu Wolfenstein 3D sorti en 1992. Le but est de se déplacer dans un labyrinthe en 3D et de trouver la sortie.
+Technologies Langage C Technique du Ray-Casting Utilisation de la librairie graphique Minilibx Lien du projet Accessible ici </description>
             <content type="html"><![CDATA[<h3 id="projet">Projet</h3>
+<p>Cub3D est un jeu vidéo en vue subjective inspiré du jeu Wolfenstein 3D sorti en 1992. Le but est de se déplacer dans un labyrinthe en 3D et de trouver la sortie.</p>
+<h3 id="technologies">Technologies</h3>
 <ul>
 <li>Langage C</li>
-<li>Utilise la technique du Ray-Casting</li>
+<li>Technique du Ray-Casting</li>
 <li>Utilisation de la librairie graphique Minilibx</li>
-<li>Utilisation de la norme 42</li>
 </ul>
+<h3 id="lien-du-projet">Lien du projet</h3>
+<h4 id="accessiblenbspicihttpsgithubcomlucaslioncub3d">Accessible <a href="https://github.com/lucaslion/cub3d">ici</a></h4>
 <p><img alt="cub3d" src="/cub3D.png" title="cub3d"></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Irc</title>
+            <link>http://localhost:1313/posts/06/2022/irc/</link>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/06/2022/irc/</guid>
+            <description>Projet Irc est un client IRC qui permet de se connecter à un serveur IRC et de discuter avec d&amp;rsquo;autres utilisateurs.
+Technologies Language C++ sockets irssi (client IRC) Lien du projet Accessible ici </description>
+            <content type="html"><![CDATA[<h3 id="projet">Projet</h3>
+<p>Irc est un client IRC qui permet de se connecter à un serveur IRC et de discuter avec d&rsquo;autres utilisateurs.</p>
+<h3 id="technologies">Technologies</h3>
+<ul>
+<li>Language C++</li>
+<li>sockets</li>
+<li>irssi (client IRC)</li>
+</ul>
+<h3 id="lien-du-projet">Lien du projet</h3>
+<h4 id="accessiblenbspicihttpsgithubcomlucaslionirc">Accessible <a href="https://github.com/lucaslion/irc">ici</a></h4>
+<p><img alt="irc" src="/irc.png" title="irc"></p>
 ]]></content>
         </item>
         
@@ -93,8 +128,12 @@
             <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
             
             <guid>http://localhost:1313/posts/06/2022/kriill/</guid>
-            <description>Fonctionnalités Possibilité de poster des vidéos Système de newsletters Boutique Shopify intégrée Technologies Python / Django Shopify Postgresql PlanetHoster Accessible ici</description>
-            <content type="html"><![CDATA[<h3 id="fonctionnalités">Fonctionnalités</h3>
+            <description>Projet Kriill est un site web de partage de vidéos et de vente de produits dérivés du groupe de musique Kriill.
+Fonctionnalités Possibilité de poster des vidéos Système de newsletters Boutique Shopify intégrée Technologies Python / Django Shopify Postgresql PlanetHoster Accessible ici
+Lien du projet Accessible ici </description>
+            <content type="html"><![CDATA[<h3 id="projet">Projet</h3>
+<p>Kriill est un site web de partage de vidéos et de vente de produits dérivés du groupe de musique Kriill.</p>
+<h3 id="fonctionnalités">Fonctionnalités</h3>
 <ul>
 <li>Possibilité de poster des vidéos</li>
 <li>Système de newsletters</li>
@@ -108,6 +147,8 @@
 <li>PlanetHoster</li>
 </ul>
 <p>Accessible <a href="https://kriill.com">ici</a></p>
+<h3 id="lien-du-projet">Lien du projet</h3>
+<h4 id="accessiblenbspicihttpswwwkriillcom">Accessible <a href="https://www.kriill.com">ici</a></h4>
 <p><img alt="kriill1" src="/kriill1.png" title="kriill1">
 <img alt="kriill2" src="/kriill2.png" title="kriill2">
 <img alt="kriill3" src="/kriill3.png" title="kriill3"></p>
