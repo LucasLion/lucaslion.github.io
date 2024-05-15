@@ -15,7 +15,7 @@
             <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
             
             <guid>http://localhost:1313/posts/02/2023/transcendance/</guid>
-            <description>Fonctionnalités Plusieurs modes de jeu avec / sans bonus vitesse de la balle Chat et salons intégrés Système de ranking Double authentification Connexion via github Système de matchmaking Accessible ici </description>
+            <description>Fonctionnalités Plusieurs modes de jeu avec / sans bonus vitesse de la balle Chat et salons intégrés Système de ranking Double authentification Connexion via github Système de matchmaking Technologies React Node.js Socket.io Express / Nest.js Postgres / Prisma Docker Google Authenticator Swagger Accessible ici </description>
             <content type="html"><![CDATA[<h3 id="fonctionnalités">Fonctionnalités</h3>
 <ul>
 <li>Plusieurs modes de jeu
@@ -30,8 +30,87 @@
 <li>Connexion via github</li>
 <li>Système de matchmaking</li>
 </ul>
+<h3 id="technologies">Technologies</h3>
+<ul>
+<li>React</li>
+<li>Node.js</li>
+<li>Socket.io</li>
+<li>Express / Nest.js</li>
+<li>Postgres / Prisma</li>
+<li>Docker</li>
+<li>Google Authenticator</li>
+<li>Swagger</li>
+</ul>
 <h4 id="accessiblenbspicihttps42transcendancefr">Accessible <a href="https://42transcendance.fr">ici</a></h4>
 <p><img alt="pong game" src="/pong.png" title="pong game"></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Minishell</title>
+            <link>http://localhost:1313/posts/11/2022/minishell/</link>
+            <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/11/2022/minishell/</guid>
+            <description>Fonctionnalités Langage C Historique fonctionnel Simples et doubles guillements pris en compte Redirections ( &amp;lt;, &amp;gt;, &amp;raquo; ) Pipes ( | ) Heredoc ( &amp;laquo; ) Variables d&amp;rsquo;environnement Signaux (ctrl + C, ctrl + D, ctrl + \ ) Builtins (echo, cd, pwd, export, unset, env, exit) </description>
+            <content type="html"><![CDATA[<h3 id="fonctionnalités">Fonctionnalités</h3>
+<ul>
+<li>Langage C</li>
+<li>Historique fonctionnel</li>
+<li>Simples et doubles guillements pris en compte</li>
+<li>Redirections ( &lt;, &gt;, &raquo; )</li>
+<li>Pipes ( | )</li>
+<li>Heredoc ( &laquo; )</li>
+<li>Variables d&rsquo;environnement</li>
+<li>Signaux (ctrl + C, ctrl + D, ctrl + \ )</li>
+<li>Builtins (echo, cd, pwd, export, unset, env, exit)</li>
+</ul>
+<p><img alt="minishell example" src="/minishell.png" title="minishell example"></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Cub3D</title>
+            <link>http://localhost:1313/posts/06/2022/cub3d/</link>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/06/2022/cub3d/</guid>
+            <description>Projet Langage C Utilise la technique du Ray-Casting Utilisation de la librairie graphique Minilibx Utilisation de la norme 42 </description>
+            <content type="html"><![CDATA[<h3 id="projet">Projet</h3>
+<ul>
+<li>Langage C</li>
+<li>Utilise la technique du Ray-Casting</li>
+<li>Utilisation de la librairie graphique Minilibx</li>
+<li>Utilisation de la norme 42</li>
+</ul>
+<p><img alt="cub3d" src="/cub3D.png" title="cub3d"></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Kriill</title>
+            <link>http://localhost:1313/posts/06/2022/kriill/</link>
+            <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/06/2022/kriill/</guid>
+            <description>Fonctionnalités Possibilité de poster des vidéos Système de newsletters Boutique Shopify intégrée Technologies Python / Django Shopify Postgresql PlanetHoster Accessible ici</description>
+            <content type="html"><![CDATA[<h3 id="fonctionnalités">Fonctionnalités</h3>
+<ul>
+<li>Possibilité de poster des vidéos</li>
+<li>Système de newsletters</li>
+<li>Boutique Shopify intégrée</li>
+</ul>
+<h3 id="technologies">Technologies</h3>
+<ul>
+<li>Python / Django</li>
+<li>Shopify</li>
+<li>Postgresql</li>
+<li>PlanetHoster</li>
+</ul>
+<p>Accessible <a href="https://kriill.com">ici</a></p>
+<p><img alt="kriill1" src="/kriill1.png" title="kriill1">
+<img alt="kriill2" src="/kriill2.png" title="kriill2">
+<img alt="kriill3" src="/kriill3.png" title="kriill3"></p>
 ]]></content>
         </item>
         

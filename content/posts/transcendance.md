@@ -23,5 +23,16 @@ series:
 - Connexion via github 
 - Système de matchmaking
 
+### Technologies
+
+- React
+- Node.js
+- Socket.io
+- Express / Nest.js
+- Postgres / Prisma
+- Docker
+- Google Authenticator
+- Swagger
+
 #### Accessible&nbsp;[ici](https://42transcendance.fr)
 ![pong game](/pong.png "pong game")
