@@ -10,18 +10,39 @@
     <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/series/projetcs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Minishell</title>
-      <link>http://localhost:1313/posts/02/2023/minishell/</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/02/2023/minishell/</guid>
-      <description>Fonctionnalités </description>
-    </item>
-    <item>
       <title>Transcendance</title>
       <link>http://localhost:1313/posts/02/2023/transcendance/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/02/2023/transcendance/</guid>
-      <description>Fonctionnalités Plusieurs modes de jeu avec / sans bonus vitesse de la balle Chat et salons intégrés Système de ranking Double authentification Connexion via github Système de matchmaking Technologies React Node.js Socket.io Express / Nest.js Postgres / Prisma Docker Google Authenticator Swagger Accessible ici </description>
+      <description>Projet Transcendance est un jeu de pong multijoueur en ligne qui permet de jouer contre d&amp;rsquo;autres joueurs en temps réel.&#xA;Fonctionnalités Plusieurs modes de jeu avec / sans bonus vitesse de la balle Chat et salons intégrés Système de ranking Double authentification Connexion via github Système de matchmaking Technologies React Node.js Socket.io Express / Nest.js Postgres / Prisma Docker Google Authenticator Swagger Lien du projet Accessible ici </description>
+    </item>
+    <item>
+      <title>Minishell</title>
+      <link>http://localhost:1313/posts/11/2022/minishell/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/11/2022/minishell/</guid>
+      <description>Projet Minishell est un shell UNIX simplifié qui permet d&amp;rsquo;exécuter des commandes et de gérer des signaux.&#xA;Fonctionnalités Langage C Historique fonctionnel Simples et doubles guillements pris en compte Redirections ( &amp;lt;, &amp;gt;, &amp;raquo; ) Pipes ( | ) Heredoc ( &amp;laquo; ) Variables d&amp;rsquo;environnement Signaux (ctrl + C, ctrl + D, ctrl + \ ) Builtins (echo, cd, pwd, export, unset, env, exit) Lien du projet Accessible ici </description>
+    </item>
+    <item>
+      <title>Cub3D</title>
+      <link>http://localhost:1313/posts/06/2022/cub3d/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/06/2022/cub3d/</guid>
+      <description>Projet Cub3D est un jeu vidéo en vue subjective inspiré du jeu Wolfenstein 3D sorti en 1992. Le but est de se déplacer dans un labyrinthe en 3D et de trouver la sortie.&#xA;Technologies Langage C Technique du Ray-Casting Utilisation de la librairie graphique Minilibx Lien du projet Accessible ici </description>
+    </item>
+    <item>
+      <title>Irc</title>
+      <link>http://localhost:1313/posts/06/2022/irc/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/06/2022/irc/</guid>
+      <description>Projet Irc est un client IRC qui permet de se connecter à un serveur IRC et de discuter avec d&amp;rsquo;autres utilisateurs.&#xA;Technologies Language C++ sockets irssi (client IRC) Lien du projet Accessible ici </description>
+    </item>
+    <item>
+      <title>Kriill</title>
+      <link>http://localhost:1313/posts/06/2022/kriill/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/06/2022/kriill/</guid>
+      <description>Projet Kriill est un site web de partage de vidéos et de vente de produits dérivés du groupe de musique Kriill.&#xA;Fonctionnalités Possibilité de poster des vidéos Système de newsletters Boutique Shopify intégrée Technologies Python / Django Shopify Postgresql PlanetHoster Accessible ici&#xA;Lien du projet Accessible ici </description>
     </item>
   </channel>
 </rss>
