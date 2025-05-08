@@ -16,7 +16,7 @@ series:
 Fonctionalité d'inscription d'entités du site web Frenchlink.
 
 
-| ![Image 1](/link1.png)         | ![Image 2](/link1.png)              | ![Image 3](/link1.png)              |
+| ![Image 1](/link1.png)         | ![Image 2](/link2.png)              | ![Image 3](/link3.png)              |
 |:------------------------------:|:-----------------------------------:|:------------------------------------:|
 | Étape 0                        | Étape 1                             | Étape 2                             ||
 
