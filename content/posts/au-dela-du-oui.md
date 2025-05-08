@@ -1,7 +1,7 @@
 ---
 author:
   name: "Lucas Lion"
-date: 2024-06-11
+date: 2025-05-08
 linktitle: Au-delà du oui
 type:
 - post

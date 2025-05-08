@@ -1,36 +1,44 @@
 ---
 author:
   name: "Lucas Lion"
-date: 2024-06-11
-linktitle: Meteo
+date: 2025-04-01
+linktitle: Frenchlink
 type:
 - post
 - posts
-title: Meteo
+title: Frenchlink
 weight: 10
 series:
 - Projetcs
 ---
 ### Projet
 
-Application météo en flutter
+Fonctionalité d'inscription d'entités du site web Frenchlink.
 
 
-| ![Image 1](/meteo1.jpg)        | ![Image 2](/meteo2.jpg)             | ![Image 3](/meteo3.jpg)              |
+| ![Image 1](/link1.png)         | ![Image 2](/link1.png)              | ![Image 3](/link1.png)              |
 |:------------------------------:|:-----------------------------------:|:------------------------------------:|
-| Affichage de la météo actuelle | Affichage de la météo de la journée | Affichage de la météo sur la semaine |
+| Étape 0                        | Étape 1                             | Étape 2                             ||
+
+
+| ![Image 1](/link4.png)         | ![Image 2](/link5.png)              |
+|:------------------------------:|:-----------------------------------:|
+| Étape 4                        | Étape 5                             |
 
 ### Fonctionnalités
 
-- Géolocalisation
-- Affichage de la météo actuelle
-- Affichage de la météo de la journée
-- Affichage de la météo sur 7 jours
+- Automatisation de l'ajout d'entités à partir du numéro SIRET
+- Récolte des informations complémentaires sur l'entité
+- Intégration responsive
+- Insertion de l'entité dans la base de données
 
 ### Technologies
 
-- Flutter
+- php
+- javascript
+- html
+- css
 
-#### Accessible&nbsp;[ici](https://github.com/lucaslion/weatherapp)
+#### Accessible&nbsp;[ici](https://frenchlink.fr/addentity)
 
 
